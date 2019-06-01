@@ -1,12 +1,12 @@
 # Competetive Programming
 
 ### Warm up round 1
-- [X] ✅ ADDREV
-- [X] ✅ EC_CONB
-- [ ] CRDS
-- [ ] ACPC11B
-- [ ] CODCHESS
-- [ ] FASHION
+- [X] [Adding Reversed Numbers](https://www.spoj.com/problems/ADDREV/) | [Solution](./spoj/ADDREV.cpp)
+- [X] [Even Numbers](https://www.spoj.com/problems/EC_CONB/) | [Solution](./spoj/EC_CONB.cpp)
+- [X] [Cards](https://www.spoj.com/problems/CRDS/) | [Solution](./spoj/CRDS.cpp)
+- [X] [Between the Mountains](https://www.spoj.com/problems/ACPC11B/) | [Solution](./spoj/ACPC11B.cpp) | [Help](https://www.geeksforgeeks.org/smallest-difference-pair-values-two-unsorted-arrays/)
+- [X] [Naya Shatranj (New Chess)](https://www.spoj.com/problems/CODCHESS/) | [Solution](./spoj/CODCHESS.cpp)
+- [X] [Fashion Shows](https://www.spoj.com/problems/FASHION/) | [Solution](./spoj/FASHION.cpp)
 
 ### Warm up round 2
 - [ ] ARMY
