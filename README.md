@@ -9,11 +9,12 @@
 - [X] [Fashion Shows](https://www.spoj.com/problems/FASHION/) | [Solution](./spoj/FASHION.cpp)
 
 ### Warm up round 2
-- [ ] ARMY
-- [ ] ESYRCRTN 
-- [ ] FCTRL
-- [ ] FCTRL2
-- [ ] IEEEBGAM PHT
+- [X] [Army Strength](https://www.spoj.com/problems/ARMY/) | [Solution](./spoj/ARMY.cpp)
+- [X] [Why Always Recursion](https://www.spoj.com/problems/ESYRCRTN/) | [Solution](./spoj/ESYRCRTN.cpp)
+- [X] [Factorials and Trailing Zeroes](https://www.spoj.com/problems/FCTRL/) | [Solution](./spoj/FCTRL.cpp) | [Help](https://www.purplemath.com/modules/factzero.htm)
+- [X] [Extra Long Factorials](https://www.spoj.com/problems/FCTRL2/) | [Solution](./spoj/FCTRL2.cpp) | [Help](https://www.boost.org/doc/libs/1_54_0/libs/multiprecision/doc/html/boost_multiprecision/tut/ints/egs/factorials.html)
+- [X] [The Ball Game](https://www.spoj.com/problems/IEEEBGAM/) | [Solution](./spoj/IEEEBGAM.cpp)
+- [X] [Pigeonhole Tower](https://www.spoj.com/problems/PHT/) | [Solution](./spoj/PHT.cpp)
 - [ ] SPCQ
 - [ ] SPCU
 - [ ] MAY99_2
