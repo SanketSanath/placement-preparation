@@ -36,9 +36,9 @@
 
 ### ADHOC
 - [ ] BUSYMAN
-- [ ] GERGOVIA
-- [ ] KNJIGE
-- [ ] CUBARTWK
+- [X] [Wine trading in Gergovia](https://www.spoj.com/problems/GERGOVIA/) | [Solution](./spoj/GERGOVIA.cpp)
+- [X] [KNJIGE](https://www.spoj.com/problems/KNJIGE/) | [Solution](./spoj/KNJIGE.cpp)
+- [X] [Cubist Artwork](https://www.spoj.com/problems/CUBARTWK/) | [Solution](./spoj/CUBARTWK.cpp)
 - [ ] VAPI01
 - [ ] SNGMSG
 - [ ] PWRARR
