@@ -94,12 +94,12 @@
 - [ ] CURDPROD
 
 ### C++ STL and Basic Data Structures
-- [ ] RPLE
-- [ ] STPAR
-- [ ] ANARC09A
-- [ ] FACEFRND
-- [ ] MRECAMAN
-- [ ] MAJOR
+- [X] [Espionage](https://www.spoj.com/problems/RPLE/) | [Solution](./spoj/RPLE.cpp)
+- [X] [Street Parade](https://www.spoj.com/problems/STPAR/) | [Solution](./spoj/STPAR.cpp)
+- [X] [Seinfeld](https://www.spoj.com/problems/ANARC09A/) | [Solution](./spoj/ANARC09A.cpp) 
+- [X] [Friends of Friends](https://www.spoj.com/problems/FACEFRND/) | [Solution](./spoj/FACEFRND.cpp) 
+- [X] [Recaman’s Sequence](https://www.spoj.com/problems/MRECAMAN/) | [Solution](./spoj/MRECAMAN.cpp) 
+- [X] [Majority](https://www.spoj.com/problems/MAJOR/) | [Solution](./spoj/MAJOR.cpp) 
 - [ ] PRO
 - [ ] RKS
 - [ ] SBANK
